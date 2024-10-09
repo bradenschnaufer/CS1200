@@ -1,0 +1,15 @@
+/voc/work/CS1200/Week1/Vowel/obj/Debug/net8.0/Vowel.GeneratedMSBuildEditorConfig.editorconfig
+/voc/work/CS1200/Week1/Vowel/obj/Debug/net8.0/Vowel.AssemblyInfoInputs.cache
+/voc/work/CS1200/Week1/Vowel/obj/Debug/net8.0/Vowel.AssemblyInfo.cs
+/voc/work/CS1200/Week1/Vowel/obj/Debug/net8.0/Vowel.csproj.CoreCompileInputs.cache
+/voc/work/CS1200/Week1/Vowel/obj/Debug/net8.0/Vowel.sourcelink.json
+/voc/work/CS1200/Week1/Vowel/bin/Debug/net8.0/Vowel
+/voc/work/CS1200/Week1/Vowel/bin/Debug/net8.0/Vowel.deps.json
+/voc/work/CS1200/Week1/Vowel/bin/Debug/net8.0/Vowel.runtimeconfig.json
+/voc/work/CS1200/Week1/Vowel/bin/Debug/net8.0/Vowel.dll
+/voc/work/CS1200/Week1/Vowel/bin/Debug/net8.0/Vowel.pdb
+/voc/work/CS1200/Week1/Vowel/obj/Debug/net8.0/Vowel.dll
+/voc/work/CS1200/Week1/Vowel/obj/Debug/net8.0/refint/Vowel.dll
+/voc/work/CS1200/Week1/Vowel/obj/Debug/net8.0/Vowel.pdb
+/voc/work/CS1200/Week1/Vowel/obj/Debug/net8.0/Vowel.genruntimeconfig.cache
+/voc/work/CS1200/Week1/Vowel/obj/Debug/net8.0/ref/Vowel.dll

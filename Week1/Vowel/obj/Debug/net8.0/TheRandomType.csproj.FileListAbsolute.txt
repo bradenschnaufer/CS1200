@@ -1,0 +1,14 @@
+/voc/work/TheRandomType/obj/Debug/net8.0/TheRandomType.GeneratedMSBuildEditorConfig.editorconfig
+/voc/work/TheRandomType/obj/Debug/net8.0/TheRandomType.AssemblyInfoInputs.cache
+/voc/work/TheRandomType/obj/Debug/net8.0/TheRandomType.AssemblyInfo.cs
+/voc/work/TheRandomType/obj/Debug/net8.0/TheRandomType.csproj.CoreCompileInputs.cache
+/voc/work/TheRandomType/bin/Debug/net8.0/TheRandomType
+/voc/work/TheRandomType/bin/Debug/net8.0/TheRandomType.deps.json
+/voc/work/TheRandomType/bin/Debug/net8.0/TheRandomType.runtimeconfig.json
+/voc/work/TheRandomType/bin/Debug/net8.0/TheRandomType.dll
+/voc/work/TheRandomType/bin/Debug/net8.0/TheRandomType.pdb
+/voc/work/TheRandomType/obj/Debug/net8.0/TheRandomType.dll
+/voc/work/TheRandomType/obj/Debug/net8.0/refint/TheRandomType.dll
+/voc/work/TheRandomType/obj/Debug/net8.0/TheRandomType.pdb
+/voc/work/TheRandomType/obj/Debug/net8.0/TheRandomType.genruntimeconfig.cache
+/voc/work/TheRandomType/obj/Debug/net8.0/ref/TheRandomType.dll
