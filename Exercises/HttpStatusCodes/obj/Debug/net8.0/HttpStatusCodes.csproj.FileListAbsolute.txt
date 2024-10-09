@@ -1,0 +1,14 @@
+/voc/work/HttpStatusCodes/bin/Debug/net8.0/HttpStatusCodes
+/voc/work/HttpStatusCodes/bin/Debug/net8.0/HttpStatusCodes.deps.json
+/voc/work/HttpStatusCodes/bin/Debug/net8.0/HttpStatusCodes.runtimeconfig.json
+/voc/work/HttpStatusCodes/bin/Debug/net8.0/HttpStatusCodes.dll
+/voc/work/HttpStatusCodes/bin/Debug/net8.0/HttpStatusCodes.pdb
+/voc/work/HttpStatusCodes/obj/Debug/net8.0/HttpStatusCodes.GeneratedMSBuildEditorConfig.editorconfig
+/voc/work/HttpStatusCodes/obj/Debug/net8.0/HttpStatusCodes.AssemblyInfoInputs.cache
+/voc/work/HttpStatusCodes/obj/Debug/net8.0/HttpStatusCodes.AssemblyInfo.cs
+/voc/work/HttpStatusCodes/obj/Debug/net8.0/HttpStatusCodes.csproj.CoreCompileInputs.cache
+/voc/work/HttpStatusCodes/obj/Debug/net8.0/HttpStatusCodes.dll
+/voc/work/HttpStatusCodes/obj/Debug/net8.0/refint/HttpStatusCodes.dll
+/voc/work/HttpStatusCodes/obj/Debug/net8.0/HttpStatusCodes.pdb
+/voc/work/HttpStatusCodes/obj/Debug/net8.0/HttpStatusCodes.genruntimeconfig.cache
+/voc/work/HttpStatusCodes/obj/Debug/net8.0/ref/HttpStatusCodes.dll
