@@ -1,0 +1,14 @@
+/Users/bradenschnaufer/Desktop/CS1200/Lessons/PrimitiveTypes/bin/Debug/net8.0/PrimitiveTypes
+/Users/bradenschnaufer/Desktop/CS1200/Lessons/PrimitiveTypes/bin/Debug/net8.0/PrimitiveTypes.deps.json
+/Users/bradenschnaufer/Desktop/CS1200/Lessons/PrimitiveTypes/bin/Debug/net8.0/PrimitiveTypes.runtimeconfig.json
+/Users/bradenschnaufer/Desktop/CS1200/Lessons/PrimitiveTypes/bin/Debug/net8.0/PrimitiveTypes.dll
+/Users/bradenschnaufer/Desktop/CS1200/Lessons/PrimitiveTypes/bin/Debug/net8.0/PrimitiveTypes.pdb
+/Users/bradenschnaufer/Desktop/CS1200/Lessons/PrimitiveTypes/obj/Debug/net8.0/PrimitiveTypes.GeneratedMSBuildEditorConfig.editorconfig
+/Users/bradenschnaufer/Desktop/CS1200/Lessons/PrimitiveTypes/obj/Debug/net8.0/PrimitiveTypes.AssemblyInfoInputs.cache
+/Users/bradenschnaufer/Desktop/CS1200/Lessons/PrimitiveTypes/obj/Debug/net8.0/PrimitiveTypes.AssemblyInfo.cs
+/Users/bradenschnaufer/Desktop/CS1200/Lessons/PrimitiveTypes/obj/Debug/net8.0/PrimitiveTypes.csproj.CoreCompileInputs.cache
+/Users/bradenschnaufer/Desktop/CS1200/Lessons/PrimitiveTypes/obj/Debug/net8.0/PrimitiveTypes.dll
+/Users/bradenschnaufer/Desktop/CS1200/Lessons/PrimitiveTypes/obj/Debug/net8.0/refint/PrimitiveTypes.dll
+/Users/bradenschnaufer/Desktop/CS1200/Lessons/PrimitiveTypes/obj/Debug/net8.0/PrimitiveTypes.pdb
+/Users/bradenschnaufer/Desktop/CS1200/Lessons/PrimitiveTypes/obj/Debug/net8.0/PrimitiveTypes.genruntimeconfig.cache
+/Users/bradenschnaufer/Desktop/CS1200/Lessons/PrimitiveTypes/obj/Debug/net8.0/ref/PrimitiveTypes.dll

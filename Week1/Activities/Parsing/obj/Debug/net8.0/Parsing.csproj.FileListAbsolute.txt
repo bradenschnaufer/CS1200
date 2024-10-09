@@ -1,0 +1,14 @@
+/Users/bradenschnaufer/Desktop/CS1200/Activities/Parsing/bin/Debug/net8.0/Parsing
+/Users/bradenschnaufer/Desktop/CS1200/Activities/Parsing/bin/Debug/net8.0/Parsing.deps.json
+/Users/bradenschnaufer/Desktop/CS1200/Activities/Parsing/bin/Debug/net8.0/Parsing.runtimeconfig.json
+/Users/bradenschnaufer/Desktop/CS1200/Activities/Parsing/bin/Debug/net8.0/Parsing.dll
+/Users/bradenschnaufer/Desktop/CS1200/Activities/Parsing/bin/Debug/net8.0/Parsing.pdb
+/Users/bradenschnaufer/Desktop/CS1200/Activities/Parsing/obj/Debug/net8.0/Parsing.GeneratedMSBuildEditorConfig.editorconfig
+/Users/bradenschnaufer/Desktop/CS1200/Activities/Parsing/obj/Debug/net8.0/Parsing.AssemblyInfoInputs.cache
+/Users/bradenschnaufer/Desktop/CS1200/Activities/Parsing/obj/Debug/net8.0/Parsing.AssemblyInfo.cs
+/Users/bradenschnaufer/Desktop/CS1200/Activities/Parsing/obj/Debug/net8.0/Parsing.csproj.CoreCompileInputs.cache
+/Users/bradenschnaufer/Desktop/CS1200/Activities/Parsing/obj/Debug/net8.0/Parsing.dll
+/Users/bradenschnaufer/Desktop/CS1200/Activities/Parsing/obj/Debug/net8.0/refint/Parsing.dll
+/Users/bradenschnaufer/Desktop/CS1200/Activities/Parsing/obj/Debug/net8.0/Parsing.pdb
+/Users/bradenschnaufer/Desktop/CS1200/Activities/Parsing/obj/Debug/net8.0/Parsing.genruntimeconfig.cache
+/Users/bradenschnaufer/Desktop/CS1200/Activities/Parsing/obj/Debug/net8.0/ref/Parsing.dll

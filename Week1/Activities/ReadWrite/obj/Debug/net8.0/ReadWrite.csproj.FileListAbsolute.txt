@@ -1,0 +1,14 @@
+/Users/bradenschnaufer/Desktop/CS1200/ReadWrite/bin/Debug/net8.0/ReadWrite
+/Users/bradenschnaufer/Desktop/CS1200/ReadWrite/bin/Debug/net8.0/ReadWrite.deps.json
+/Users/bradenschnaufer/Desktop/CS1200/ReadWrite/bin/Debug/net8.0/ReadWrite.runtimeconfig.json
+/Users/bradenschnaufer/Desktop/CS1200/ReadWrite/bin/Debug/net8.0/ReadWrite.dll
+/Users/bradenschnaufer/Desktop/CS1200/ReadWrite/bin/Debug/net8.0/ReadWrite.pdb
+/Users/bradenschnaufer/Desktop/CS1200/ReadWrite/obj/Debug/net8.0/ReadWrite.GeneratedMSBuildEditorConfig.editorconfig
+/Users/bradenschnaufer/Desktop/CS1200/ReadWrite/obj/Debug/net8.0/ReadWrite.AssemblyInfoInputs.cache
+/Users/bradenschnaufer/Desktop/CS1200/ReadWrite/obj/Debug/net8.0/ReadWrite.AssemblyInfo.cs
+/Users/bradenschnaufer/Desktop/CS1200/ReadWrite/obj/Debug/net8.0/ReadWrite.csproj.CoreCompileInputs.cache
+/Users/bradenschnaufer/Desktop/CS1200/ReadWrite/obj/Debug/net8.0/ReadWrite.dll
+/Users/bradenschnaufer/Desktop/CS1200/ReadWrite/obj/Debug/net8.0/refint/ReadWrite.dll
+/Users/bradenschnaufer/Desktop/CS1200/ReadWrite/obj/Debug/net8.0/ReadWrite.pdb
+/Users/bradenschnaufer/Desktop/CS1200/ReadWrite/obj/Debug/net8.0/ReadWrite.genruntimeconfig.cache
+/Users/bradenschnaufer/Desktop/CS1200/ReadWrite/obj/Debug/net8.0/ref/ReadWrite.dll

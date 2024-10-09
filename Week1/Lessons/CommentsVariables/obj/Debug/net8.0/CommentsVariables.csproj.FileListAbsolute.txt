@@ -1,0 +1,14 @@
+/Users/bradenschnaufer/Desktop/CS1200/Lessons/CommentsVariables/bin/Debug/net8.0/CommentsVariables
+/Users/bradenschnaufer/Desktop/CS1200/Lessons/CommentsVariables/bin/Debug/net8.0/CommentsVariables.deps.json
+/Users/bradenschnaufer/Desktop/CS1200/Lessons/CommentsVariables/bin/Debug/net8.0/CommentsVariables.runtimeconfig.json
+/Users/bradenschnaufer/Desktop/CS1200/Lessons/CommentsVariables/bin/Debug/net8.0/CommentsVariables.dll
+/Users/bradenschnaufer/Desktop/CS1200/Lessons/CommentsVariables/bin/Debug/net8.0/CommentsVariables.pdb
+/Users/bradenschnaufer/Desktop/CS1200/Lessons/CommentsVariables/obj/Debug/net8.0/CommentsVariables.GeneratedMSBuildEditorConfig.editorconfig
+/Users/bradenschnaufer/Desktop/CS1200/Lessons/CommentsVariables/obj/Debug/net8.0/CommentsVariables.AssemblyInfoInputs.cache
+/Users/bradenschnaufer/Desktop/CS1200/Lessons/CommentsVariables/obj/Debug/net8.0/CommentsVariables.AssemblyInfo.cs
+/Users/bradenschnaufer/Desktop/CS1200/Lessons/CommentsVariables/obj/Debug/net8.0/CommentsVariables.csproj.CoreCompileInputs.cache
+/Users/bradenschnaufer/Desktop/CS1200/Lessons/CommentsVariables/obj/Debug/net8.0/CommentsVariables.dll
+/Users/bradenschnaufer/Desktop/CS1200/Lessons/CommentsVariables/obj/Debug/net8.0/refint/CommentsVariables.dll
+/Users/bradenschnaufer/Desktop/CS1200/Lessons/CommentsVariables/obj/Debug/net8.0/CommentsVariables.pdb
+/Users/bradenschnaufer/Desktop/CS1200/Lessons/CommentsVariables/obj/Debug/net8.0/CommentsVariables.genruntimeconfig.cache
+/Users/bradenschnaufer/Desktop/CS1200/Lessons/CommentsVariables/obj/Debug/net8.0/ref/CommentsVariables.dll
