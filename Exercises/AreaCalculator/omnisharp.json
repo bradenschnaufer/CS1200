@@ -1,0 +1,11 @@
+{
+    "fileOptions": {
+        "excludeSearchPatterns": [
+            "**/node_modules/**",
+            "**/.git/**",
+            "**/bower_components/**",
+            "**/startercode/**",
+            "**/.local/**"
+        ]
+    }
+}
