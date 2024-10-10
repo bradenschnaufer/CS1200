@@ -1,0 +1,15 @@
+/Users/bradenschnaufer/Desktop/CS1200/Exercises/SalesTaxCalculator/bin/Debug/net8.0/SalesTaxCalculator
+/Users/bradenschnaufer/Desktop/CS1200/Exercises/SalesTaxCalculator/bin/Debug/net8.0/SalesTaxCalculator.deps.json
+/Users/bradenschnaufer/Desktop/CS1200/Exercises/SalesTaxCalculator/bin/Debug/net8.0/SalesTaxCalculator.runtimeconfig.json
+/Users/bradenschnaufer/Desktop/CS1200/Exercises/SalesTaxCalculator/bin/Debug/net8.0/SalesTaxCalculator.dll
+/Users/bradenschnaufer/Desktop/CS1200/Exercises/SalesTaxCalculator/bin/Debug/net8.0/SalesTaxCalculator.pdb
+/Users/bradenschnaufer/Desktop/CS1200/Exercises/SalesTaxCalculator/obj/Debug/net8.0/SalesTaxCalculator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/bradenschnaufer/Desktop/CS1200/Exercises/SalesTaxCalculator/obj/Debug/net8.0/SalesTaxCalculator.AssemblyInfoInputs.cache
+/Users/bradenschnaufer/Desktop/CS1200/Exercises/SalesTaxCalculator/obj/Debug/net8.0/SalesTaxCalculator.AssemblyInfo.cs
+/Users/bradenschnaufer/Desktop/CS1200/Exercises/SalesTaxCalculator/obj/Debug/net8.0/SalesTaxCalculator.csproj.CoreCompileInputs.cache
+/Users/bradenschnaufer/Desktop/CS1200/Exercises/SalesTaxCalculator/obj/Debug/net8.0/SalesTaxCalculator.sourcelink.json
+/Users/bradenschnaufer/Desktop/CS1200/Exercises/SalesTaxCalculator/obj/Debug/net8.0/SalesTaxCalculator.dll
+/Users/bradenschnaufer/Desktop/CS1200/Exercises/SalesTaxCalculator/obj/Debug/net8.0/refint/SalesTaxCalculator.dll
+/Users/bradenschnaufer/Desktop/CS1200/Exercises/SalesTaxCalculator/obj/Debug/net8.0/SalesTaxCalculator.pdb
+/Users/bradenschnaufer/Desktop/CS1200/Exercises/SalesTaxCalculator/obj/Debug/net8.0/SalesTaxCalculator.genruntimeconfig.cache
+/Users/bradenschnaufer/Desktop/CS1200/Exercises/SalesTaxCalculator/obj/Debug/net8.0/ref/SalesTaxCalculator.dll
