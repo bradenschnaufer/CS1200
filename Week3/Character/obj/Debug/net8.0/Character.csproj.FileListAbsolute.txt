@@ -1,0 +1,14 @@
+/voc/work/Character/obj/Debug/net8.0/Character.GeneratedMSBuildEditorConfig.editorconfig
+/voc/work/Character/obj/Debug/net8.0/Character.AssemblyInfoInputs.cache
+/voc/work/Character/obj/Debug/net8.0/Character.AssemblyInfo.cs
+/voc/work/Character/obj/Debug/net8.0/Character.csproj.CoreCompileInputs.cache
+/voc/work/Character/bin/Debug/net8.0/Character
+/voc/work/Character/bin/Debug/net8.0/Character.deps.json
+/voc/work/Character/bin/Debug/net8.0/Character.runtimeconfig.json
+/voc/work/Character/bin/Debug/net8.0/Character.dll
+/voc/work/Character/bin/Debug/net8.0/Character.pdb
+/voc/work/Character/obj/Debug/net8.0/Character.dll
+/voc/work/Character/obj/Debug/net8.0/refint/Character.dll
+/voc/work/Character/obj/Debug/net8.0/Character.pdb
+/voc/work/Character/obj/Debug/net8.0/Character.genruntimeconfig.cache
+/voc/work/Character/obj/Debug/net8.0/ref/Character.dll
